@@ -27,3 +27,8 @@
 ## Funcionarios
 
 <img width="1866" height="926" alt="Captura de tela 2026-03-09 101115" src="https://github.com/user-attachments/assets/176e3214-975e-4fe7-980c-961bd686d012" />
+
+## Gatos
+
+<img width="1866" height="929" alt="image" src="https://github.com/user-attachments/assets/f393583e-6726-46fe-afbf-363899e0f9ec" />
+
